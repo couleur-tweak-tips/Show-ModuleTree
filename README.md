@@ -1,7 +1,7 @@
 > **Warning**
 >
-> As you can see from the files existing in this repo this is purely a concept/draft,
-> more in the coming days (or else consider this abandonned and thus feel free to PR/fork)
+> This was a concept I lost interest in,
+> Consider this abandonned, feel free to PR/fork
 
 # Show-ModuleTree 🌳
 
